@@ -4,7 +4,7 @@
 
 Maya script for automatically exporting an FBX and sending it to FBX2DMX, as well as compiling and launching HLMV.
 
-To install place in your "Documents\maya\%version%\" folder then run:
+To install place in your "Documents\maya\\%version%\" folder then run:
 
 import DMXExport; tfFDMXExportlex.createUI()
 
